@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bd604fc7-0a07-4689-b7cc-ec2710914f7d" name="jeker" url="http://ctddev.ifmo.ru">
+        <fileTransfer host="ctddev.ifmo.ru" port="22144" rootFolder="/home/mljf" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22144" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
